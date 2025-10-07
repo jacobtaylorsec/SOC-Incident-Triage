@@ -50,6 +50,8 @@ SOC-INCIDENT-TRIAGE/
 │   ├── phishing_campaign.md
 │   └── ssh_bruteforce.md
 │
+├── SOC_Daily_Queue_Mock_Shift_01.md   # Shift log (day-in-the-life)
+│
 └── README.md                     # Main documentation and project overview
 ```
 
@@ -60,6 +62,11 @@ SOC-INCIDENT-TRIAGE/
 
 The screenshot above shows all **mock alerts triggered** in Splunk during this project.  
 Each alert represents a separate triage scenario — just like what a Tier-1 analyst might see across their queue during a normal shift.
+
+---
+
+## Daily SOC Simulation
+- [SOC Daily Queue – Mock Shift 01](./SOC_Daily_Queue_Mock_Shift_01.md)
 
 ---
 
