@@ -1,7 +1,5 @@
 # SOC Incident Triage Reports – Mock Project
 
-![SOC Dashboard](./screenshots/soc_dashboard_mock.png)
-
 ---
 
 ## Overview
